@@ -10,11 +10,18 @@ Welcome to AT Smart Solutions's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+pipenv
+------
+
+.. code-block:: console
+
+        sudo apt install pipenv
+        pipenv install 
+        pipenv -m pip freeze > requirements.txt
+        pipenv -m pip install < requirements.txt
+        
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
