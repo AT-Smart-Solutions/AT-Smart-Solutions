@@ -22,6 +22,7 @@ pipenv
         
 
 
+Install Shutter
+---------------
 
-
-
+https://launchpad.net/~shutter/+archive/ubuntu/ppa
